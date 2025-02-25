@@ -1,0 +1,5 @@
+- Developed a predictive model for traffic management using historical traffic data.  
+- Conducted EDA, model selection, training, validation, and evaluation.  
+- Used Linear Regression for traffic prediction, optimizing performance with MSE and R².  
+- Visualized traffic trends and patterns in Tableau for effective decision-making.  
+- Technologies Used: Python, Pandas, Scikit-learn, Tableau, Linear Regression   
